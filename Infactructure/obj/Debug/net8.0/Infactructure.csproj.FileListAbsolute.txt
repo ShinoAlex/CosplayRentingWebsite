@@ -1,0 +1,23 @@
+C:\Users\ADMIN\source\repos\CosplayRettingProject\Infactructure\bin\Debug\net8.0\Infactructure.deps.json
+C:\Users\ADMIN\source\repos\CosplayRettingProject\Infactructure\bin\Debug\net8.0\Infactructure.dll
+C:\Users\ADMIN\source\repos\CosplayRettingProject\Infactructure\bin\Debug\net8.0\Infactructure.pdb
+C:\Users\ADMIN\source\repos\CosplayRettingProject\Infactructure\obj\Debug\net8.0\Infactructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\CosplayRettingProject\Infactructure\obj\Debug\net8.0\Infactructure.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\CosplayRettingProject\Infactructure\obj\Debug\net8.0\Infactructure.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\CosplayRettingProject\Infactructure\obj\Debug\net8.0\Infactructure.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\CosplayRettingProject\Infactructure\obj\Debug\net8.0\Infactructure.dll
+C:\Users\ADMIN\source\repos\CosplayRettingProject\Infactructure\obj\Debug\net8.0\refint\Infactructure.dll
+C:\Users\ADMIN\source\repos\CosplayRettingProject\Infactructure\obj\Debug\net8.0\Infactructure.pdb
+C:\Users\ADMIN\source\repos\CosplayRettingProject\Infactructure\obj\Debug\net8.0\ref\Infactructure.dll
+C:\Users\ADMIN\Desktop\none important\Git\CosplayRentingWebsite\Infactructure\bin\Debug\net8.0\Infactructure.deps.json
+C:\Users\ADMIN\Desktop\none important\Git\CosplayRentingWebsite\Infactructure\bin\Debug\net8.0\Infactructure.dll
+C:\Users\ADMIN\Desktop\none important\Git\CosplayRentingWebsite\Infactructure\bin\Debug\net8.0\Infactructure.pdb
+C:\Users\ADMIN\Desktop\none important\Git\CosplayRentingWebsite\Infactructure\obj\Debug\net8.0\Infactructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\none important\Git\CosplayRentingWebsite\Infactructure\obj\Debug\net8.0\Infactructure.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\none important\Git\CosplayRentingWebsite\Infactructure\obj\Debug\net8.0\Infactructure.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\none important\Git\CosplayRentingWebsite\Infactructure\obj\Debug\net8.0\Infactructure.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\none important\Git\CosplayRentingWebsite\Infactructure\obj\Debug\net8.0\Infactructure.sourcelink.json
+C:\Users\ADMIN\Desktop\none important\Git\CosplayRentingWebsite\Infactructure\obj\Debug\net8.0\Infactructure.dll
+C:\Users\ADMIN\Desktop\none important\Git\CosplayRentingWebsite\Infactructure\obj\Debug\net8.0\refint\Infactructure.dll
+C:\Users\ADMIN\Desktop\none important\Git\CosplayRentingWebsite\Infactructure\obj\Debug\net8.0\Infactructure.pdb
+C:\Users\ADMIN\Desktop\none important\Git\CosplayRentingWebsite\Infactructure\obj\Debug\net8.0\ref\Infactructure.dll
