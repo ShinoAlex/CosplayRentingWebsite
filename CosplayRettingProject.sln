@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35303.130
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CosplayRettingWebsite", "CosplayRettingWebsite\CosplayRettingWebsite.csproj", "{01CA77B6-E192-4762-99E1-5291E0A0DC79}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CosplayRettingWebsite", "src\CosRent.API\CosplayRettingWebsite.csproj", "{01CA77B6-E192-4762-99E1-5291E0A0DC79}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Data", "Data\Data.csproj", "{D12B95AE-8840-48D0-834F-1529E07B22F5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Domain", "src\CosRent.Domain\Domain.csproj", "{D12B95AE-8840-48D0-834F-1529E07B22F5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infactructure", "Infactructure\Infactructure.csproj", "{8C8EDE78-5CE6-4A23-A167-C3A10303014C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infactructure", "src\CosRent.Infactructure\Infactructure.csproj", "{8C8EDE78-5CE6-4A23-A167-C3A10303014C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Application", "Application\Application.csproj", "{2BB6401D-C041-44AA-82F8-099E181CFA25}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Application", "src\CosRent.Application\Application.csproj", "{2BB6401D-C041-44AA-82F8-099E181CFA25}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
